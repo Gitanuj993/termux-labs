@@ -93,7 +93,8 @@ and use the MariaDB
 
 ## Maria DB Hack/Tips
 
-### Clear the Screen                                  Ctrl + L
+### Want to clear the Output Screen
+Use ``Ctrl + L`` on your keyboard.
 
 
 
