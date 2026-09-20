@@ -15,7 +15,7 @@ pkg install mariadb
 
 ```bash
 mariadb-install-db                                    ```
-
+```
 
 ## Start the database server
 
