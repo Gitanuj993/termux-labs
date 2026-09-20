@@ -56,14 +56,14 @@ MariaDB [(none)]>
 >  Now you can practice SQL.
 
 
-## Create a dedicated User
+### Now Create a dedicated User In the shell
 
 ```bash
-CREATE USER 'anuj'@'localhost' IDENTIFIED BY 'your_pa>
+CREATE USER 'anuj'@'localhost' IDENTIFIED BY 'your_passoword'
 ```
 
 ### Grant permissions:
-                                                      ```bash
+```bash
 GRANT ALL PRIVILEGES ON *.* TO 'anuj'@'localhost';
 ```
 
